@@ -8,6 +8,6 @@ This Excel sheet acts as a very basic proof of possibility of finding patterns w
 
 -This was not true of MCFT in the second sheet although the pattern still holds for Friday.
 
-This was ther only conclusive finding from this simple Excel analysis
+This was the only conclusive finding from this simple Excel analysis
 
 There may be atleast a small possibility then, of genuinely going forward with this.
