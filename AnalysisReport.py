@@ -1,5 +1,4 @@
 from jinja2  import Environment, FileSystemLoader #jinja for templating
-import datetime #force of habit, import datetime just in case 
 from weasyprint import HTML #to turn HTMl into PDF
 import os #for the renaming
 import pandas as pd #pandas for the dataframes and 
